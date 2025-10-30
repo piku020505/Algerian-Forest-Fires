@@ -46,8 +46,4 @@ The Algerian forest fire dataset provides meteorological and fire weather index 
 - Integrate real-time weather data APIs  
 - Deploy as a web dashboard or REST API for live prediction  
 
-## 👨‍💻 Author
-**Pravin Kumar**  
-B.Tech Chemical Engineering, BIT Mesra  
-*Passionate about Data Science, Machine Learning, and Analytics.*
 
